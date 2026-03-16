@@ -1,6 +1,0 @@
-namespace: pr-3
-deploymentName: challenge-app-pr-3
-serviceName: challenge-app-pr-3
-image:
-  repository: ghcr.io/federicomameli1/challenge-app
-  tag: fa2153e1fd75d46720a7910586f0b7b4dc0ae075
