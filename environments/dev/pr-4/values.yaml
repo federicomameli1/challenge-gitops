@@ -1,7 +1,0 @@
-namespace: pr-4
-deploymentName: challenge-app-pr-4
-serviceName: challenge-app-pr-4
-image:
-  repository: ghcr.io/federicomameli1/challenge-app
-  tag: e5434137a859fe9e6c76184f53befb6735947a75
-  pullPolicy: IfNotPresent
