@@ -1,0 +1,7 @@
+namespace: pr-9
+deploymentName: challenge-app-pr-9
+serviceName: challenge-app-pr-9
+image:
+  repository: ghcr.io/federicomameli1/challenge-app
+  tag: 68fd67c1223cf88cb35159b23f91e0b7925776e2
+  pullPolicy: IfNotPresent
