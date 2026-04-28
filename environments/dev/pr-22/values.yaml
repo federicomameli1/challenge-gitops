@@ -3,5 +3,5 @@ deploymentName: challenge-app-pr-22
 serviceName: challenge-app-pr-22
 image:
   repository: ghcr.io/federicomameli1/challenge-app
-  tag: f01f1fe46c17671ee952f6999cc6adfe25960fe1
+  tag: e785e2e4d490026eec708ba1bac93add813aaae9
   pullPolicy: IfNotPresent
