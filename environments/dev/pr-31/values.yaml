@@ -1,0 +1,7 @@
+namespace: pr-31
+deploymentName: challenge-app-pr-31
+serviceName: challenge-app-pr-31
+image:
+  repository: ghcr.io/federicomameli1/challenge-app
+  tag: c3a12d5eca515f483286e6ade4417ce82e7af86c
+  pullPolicy: IfNotPresent
