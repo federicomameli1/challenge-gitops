@@ -1,4 +1,4 @@
 image:
   repository: ghcr.io/federicomameli1/challenge-app
-  tag: c2f8ec6205f663d4d199137a9e5775964b73681a
+  tag: dd056e0b0f46e16a2e9ffc3049395f3d22bf0b40
   pullPolicy: IfNotPresent
